@@ -27,6 +27,7 @@ namespace MsBuildGenerationTest
             use(imp2);
             var book = new CapnpGen.AddressBook();
             use(book);
+
         }
     }
 }
